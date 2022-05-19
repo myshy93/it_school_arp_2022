@@ -1,0 +1,2 @@
+1. Aplicatie emitere bilete la teatru.
+2. Aplicatie generare factura simpla.

@@ -1,5 +1,8 @@
 # Log levels: DEBUG, INFO, WARNING, ERROR, CRITICAL
 
+from black import main
+
+
 def log(msg, level):
     print("[", level, "]", msg)
 
@@ -22,3 +25,6 @@ def error(msg):
 
 def critical(msg):
     log(msg, "CRITICAL")
+
+if __name__ == "__main__":
+    print("From MODULE!!!!")

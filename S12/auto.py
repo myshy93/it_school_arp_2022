@@ -33,7 +33,17 @@ class Car:
         print("Doors:", self.__doors)
         print("Transmission:", self.__automatic)
         print("AWD:", self.__awd)
+
+    def drive(self, km):
+        # - creste nr de km
+        # - scade combustibilul disponibil
+        # in functie de consum
+        # pt fiecare 100 de km parcursi se scade __consumption din
+        # combustibilul disp.
+        pass    
     
+    
+
     def get_km(self):
         return self.__km
 

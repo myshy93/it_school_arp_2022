@@ -1,21 +1,21 @@
-1. Aplicatie emitere bilete la spectacole.
-2. Aplicatie generare factura simpla.
-3. API citatul zilei.
-4. Agenda telefonica - OOP
-5. Inmatriculari auto
-6. API Anunturi
-7. Rapoarte/Grafice criptomonede
-8. Emitere bilete avion
-9. Grafice evolutie temp. pe zona
-10. Emitere bilete de tren
-11. IT Newsletter
-12. Inchiriere masini
-13. Bibioteca
-14. ATM
-15. Condica
-16. Top instagram hastags per years
-17. Multi-platform social-media posting and tracking
-18. Liste intretinere bloc
-19. Histograma unei imagini.
-20. Steganografie - criptare mesaje in imagini
-21. API criptare
+1. Aplicatie emitere bilete la spectacole. - CLI
+2. Aplicatie generare factura simpla. - CLI
+3. API citatul zilei. - REST API
+4. Agenda telefonica - OOP - CLI
+5. Inmatriculari auto - CLI
+6. API Anunturi - REST API
+7. Rapoarte/Grafice criptomonede - CLI
+8. Emitere bilete avion - CLI
+9. Rapoarte/Grafice evolutie temp. pe zona - CLI
+10. Emitere bilete de tren - CLI
+11. IT Newsletter - CLI -> EMAIL
+12. Inchiriere masini - CLI
+13. Bibioteca - CLI
+14. ATM - CLI
+15. Condica - CLI
+16. Top instagram #hastags per years - CLI
+17. Multi-platform social-media posting and tracking - CLI
+18. Liste intretinere bloc - CLI 
+19. Histograma unei imagini. - CLI
+20. Steganografie - criptare mesaje in imagini - CLI
+21. API criptare - REST API

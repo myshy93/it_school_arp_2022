@@ -1,7 +1,7 @@
 class Car:
 
     # constructor
-    def __init__(self, doors, automatic, awd):  # dunderscore methods | magic methods
+    def __init__(self, automatic, doors=4, awd=False):  # dunderscore methods | magic methods
         # print("---Constructor apelat---")
         # definire atribute
         # self.xxxxxxx = yyyyyyy

@@ -23,6 +23,7 @@ Meth:
  - deactivate
  - update_email - 1 param
  - update_phone - 1 param
+ - print_user_info
 
 
 3. Scrie o clasa UserManger
@@ -34,7 +35,6 @@ Atr:
  Meth:
   - add_user
   - get_user_by_email
-  - print_user_info
   - remove_user
   - drop_all
   - create_default_user

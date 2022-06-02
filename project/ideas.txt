@@ -1,3 +1,21 @@
-1. Aplicatie emitere bilete la teatru.
+1. Aplicatie emitere bilete la spectacole.
 2. Aplicatie generare factura simpla.
 3. API citatul zilei.
+4. Agenda telefonica - OOP
+5. Inmatriculari auto
+6. API Anunturi
+7. Rapoarte/Grafice criptomonede
+8. Emitere bilete avion
+9. Grafice evolutie temp. pe zona
+10. Emitere bilete de tren
+11. IT Newsletter
+12. Inchiriere masini
+13. Bibioteca
+14. ATM
+15. Condica
+16. Top instagram hastags per years
+17. Multi-platform social-media posting and tracking
+18. Liste intretinere bloc
+19. Histograma unei imagini.
+20. Steganografie - criptare mesaje in imagini
+21. API criptare

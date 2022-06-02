@@ -1,9 +1,9 @@
 from auto import Car
 
-
-ford = Car(4, False, False)
-vw = Car(2, True, False)
-toyota = Car(4, False, True)
+# polimofism
+ford = Car(False)
+vw = Car(True, 2)
+toyota = Car(False, 2, True)
 
 print("START")
 print(toyota.get_gas_level())

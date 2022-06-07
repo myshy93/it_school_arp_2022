@@ -1,5 +1,3 @@
-from pydoc import describe
-
 
 class Card:
     def __init__(self, number, symbol):

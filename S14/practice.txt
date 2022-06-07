@@ -1,0 +1,17 @@
+1.
+scrieti o clasa Shape
+care are o metoda arie
+
+scrieti o clasa Circle care mosteneste Shape si suprascrie metoda arie
+scrieti o clasa Square care mosteneste Shape si suprascrie metoda arie
+
+2. 
+Implement standard-52 card deck in Python. Create a Card class and a Deck class. 
+The cards has to be printable ex:
+ print(card)
+ >>> 5♠
+The deck must keep a list of cards inside it. Put the cards in deck at instantiation,
+ 52 cards, no duplicates. The deck must implement get_cards(number), 
+ shuffle()and overwrite __len__ to show the number of remaining cards in deck.
+
+ 

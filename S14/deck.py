@@ -1,4 +1,4 @@
-
+from random import shuffle
 class Card:
     def __init__(self, number, symbol):
         self.number = number
@@ -18,6 +18,9 @@ class Deck:
 
         self.__generate_cards()
 
+    def __len__(self):
+        return len(self.__cards)
+
     def get_cards(self, number):
         r_cards = []
         for i in range(number):
@@ -25,7 +28,7 @@ class Deck:
         return r_cards
 
     def shuffle(self):
-        pass
+        shuffle(self.__cards)
 
     def __generate_available_numbers(self):
         a_n = []
@@ -45,4 +48,6 @@ class Deck:
 
 deck = Deck()
 
+# print(deck.get_all_cards())
+deck.shuffle()
 print(deck.get_all_cards())

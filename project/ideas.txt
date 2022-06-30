@@ -17,5 +17,5 @@
 17. Multi-platform social-media posting and tracking - CLI
 18. Liste intretinere bloc - CLI 
 19. Histograma unei imagini. - CLI
-20. Steganografie - criptare mesaje in imagini - CLI
+20. Steganografie - criptare mesaje in imagini - API
 21. API criptare - REST API

@@ -1,0 +1,17 @@
+<xml>
+    <person>
+        <first_name>Mihai</first_name>
+        <last_name>Dinu</last_name>
+        <phone>073283848</phone>
+    </person>
+    <person>
+        <first_name>George</first_name>
+        <last_name>Catu</last_name>
+        <phone>073283458</phone>
+    </person>
+    <person>
+        <first_name>Alex</first_name>
+        <last_name>Rusu</last_name>
+        <phone>098444532</phone>
+    </person>
+</xml>

@@ -1,0 +1,16 @@
+{
+    "name": "Mihai",
+    "last_name": "Dinu",
+    "dev": true,
+    "age": 123,
+    "items": [
+        {
+            "name": "test",
+            "label": "TEST"
+        },
+        {
+            "name": "play",
+            "label": "PLAY"
+        }
+    ]
+}

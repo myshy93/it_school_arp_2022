@@ -1,0 +1,13 @@
+<xml>
+    <element name="CAT">  
+        <sequence>
+            <element name="NAME" type="xsd:string"/>
+            <element name="BREED" type="xsd:string"/>
+            <element name="AGE" type="xsd:positiveInteger"/>
+            <element name="ALTERED" type="xsd:boolean"/>
+            <element name="DECLAWED" type="xsd:boolean"/>
+            <element name="LICENSE" type="xsd:string"/>
+            <element name="OWNER" type="xsd:string"/>        
+        </sequence>
+    </element>
+</xml>

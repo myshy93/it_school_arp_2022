@@ -24,7 +24,7 @@ def load_from_json():
 def booklet_to_json():
     try:
         with open(out_file, 'w') as fout:
-            json.dump(_booklet, fout)
+            json.dump(_booklet, fout, indent=2)
     except Exception as err:
         print(err)
     else:

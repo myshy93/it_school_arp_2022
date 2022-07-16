@@ -5,7 +5,7 @@
 CLI
 
 #### Argumente
-Oblicatorii:
+Obligatorii:
 1. Simbol criptomoneda
 2. Data start
 

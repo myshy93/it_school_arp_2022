@@ -53,6 +53,11 @@ Apoi alta serie de pasi:
         1. DA
         2. NU
 
+#### Actualizar pret
+introdu cod
+introdu pret nou
+SAVE
+
 
 Calculator pret parbriz
 

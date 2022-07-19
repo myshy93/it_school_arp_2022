@@ -21,3 +21,9 @@ Returneaza documentatia
 
 ### Cerinte
 1. Metricele sunt retinute intr-o baza de date
+
+### Cerinte non-functionale
+1. Logging
+2. Trebuie folosit modulul argparse, pt. argumente
+3. Tratarea erorilor cu strictete.
+4. datele sunt stocate intr-o baza de dare SQLite

@@ -45,5 +45,5 @@ def complete_todo(con, id):
 # delete todo
 def delete_todo(con, id):
     cur = con.cursor()
-    cur.execute("""DELETE todos WHERE id=?""", (id,))
+    cur.execute("""DELETE FROM todos WHERE id=?""", (id,))
     con.commit()

@@ -45,7 +45,7 @@ class ATM:
     def __init__(self) -> None:
         self.__vault = {1: 0, 5: 0, 10: 0, 20: 0, 50: 0, 100: 0, 200: 0, 500: 0}
         self.__service_mode = False
-        self.__pin = "8464903"
+        self.pin = "8464903"
         self.__retry_counter = 0
 
     def fill(self, banknote, count):
@@ -74,7 +74,7 @@ class ATM:
         if self.__retry_counter > 3:
             raise VaultLockedException()
 
-        if pin == self.__pin:
+        if pin == self.pin:
             self.__service_mode = True
             self.__retry_counter = 0
         else:

@@ -11,6 +11,13 @@ CLI
 4. Adauga contract
 5. Editeaza contract
 6. Adauga index apa rece
+7. Print raport
+
+### Tabele db
+- contracte
+- blocuri
+- ap
+- index apa
 
 
 ### Actiuni
@@ -30,3 +37,12 @@ CLI
     - nume_proprietar
     - nr_locatari
     - nr_camere
+    - id_bloc FK
+
+#### Editeaza apartament
+- trebuie sa poti actualiza
+ - nume_propietar
+ - nr_locatari
+
+
+#### Adauga contract

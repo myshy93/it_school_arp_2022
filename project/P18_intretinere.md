@@ -46,3 +46,31 @@ CLI
 
 
 #### Adauga contract
+- trebuie sa poti adauga un contract de utilitati, intr-un tabel cu urm. col.
+    - id
+    - firma
+    - valoare pe luna
+    - id_bloc FK
+
+#### Editeaza contract
+- trebuie sa poti actualiza valoarea contactului
+
+
+#### Adauga index apa rece
+- alegi dintr-o lista de blocuri un bloc, apoi alegi ap.
+- introduci index apa rece
+- datele se salveaza intr-un tabel cu col.
+    - id
+    - data citire
+    - index
+    - id_ap FK
+
+#### Print raport
+- genereaza PDF cu tabel-ul ca trebui afisat la avizier
+- coloane
+    - nr ap
+    - persoane
+    - cunsum apa rece
+    - valoare apa rece
+    - plus cate o coloana pentru fiecare contract in blocul respectiv
+    - totalul per ap

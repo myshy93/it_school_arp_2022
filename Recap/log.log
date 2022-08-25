@@ -1,0 +1,143 @@
+2022-08-23 20:55:09,305 [INFO] Starting Card making machine....
+2022-08-23 20:55:09,306 [DEBUG] Start to process order. Order: CardRevolutBasic pcs. 100
+2022-08-23 20:55:09,306 [DEBUG] Opening <bound method Path.absolute of PosixPath('salarii.csv')> to get names list.
+2022-08-23 20:55:09,306 [INFO] Read 45 names from file <bound method Path.absolute of PosixPath('salarii.csv')>.
+2022-08-23 20:55:09,306 [INFO] Start creating cards...
+2022-08-23 20:55:09,306 [INFO] Creating card for Alexandrina Ionescu.
+2022-08-23 20:55:09,611 [INFO] Card created.
+2022-08-23 20:55:09,612 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3956298731 owner=Alexandrina Ionescu>
+2022-08-23 20:55:09,612 [INFO] Creating card for Aneta Florea.
+2022-08-23 20:55:09,912 [INFO] Card created.
+2022-08-23 20:55:09,913 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3940296358 owner=Aneta Florea>
+2022-08-23 20:55:09,913 [INFO] Creating card for Ozana Mazilescu.
+2022-08-23 20:55:10,214 [INFO] Card created.
+2022-08-23 20:55:10,214 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3984230679 owner=Ozana Mazilescu>
+2022-08-23 20:55:10,214 [INFO] Creating card for Toma Mazilescu.
+2022-08-23 20:55:10,520 [INFO] Card created.
+2022-08-23 20:55:10,520 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3937106825 owner=Toma Mazilescu>
+2022-08-23 20:55:10,520 [INFO] Creating card for Jasmina Barbu.
+2022-08-23 20:55:10,824 [INFO] Card created.
+2022-08-23 20:55:10,824 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3906438125 owner=Jasmina Barbu>
+2022-08-23 20:55:10,824 [INFO] Creating card for Ariadna Voinea.
+2022-08-23 20:55:11,127 [INFO] Card created.
+2022-08-23 20:55:11,127 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3912873045 owner=Ariadna Voinea>
+2022-08-23 20:55:11,127 [INFO] Creating card for Dalia Dochioiu.
+2022-08-23 20:55:11,430 [INFO] Card created.
+2022-08-23 20:55:11,430 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3983479612 owner=Dalia Dochioiu>
+2022-08-23 20:55:11,430 [INFO] Creating card for Eusebia Mocanu.
+2022-08-23 20:55:11,735 [INFO] Card created.
+2022-08-23 20:55:11,736 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3936105429 owner=Eusebia Mocanu>
+2022-08-23 20:55:11,736 [INFO] Creating card for Ileana Ababei.
+2022-08-23 20:55:12,040 [INFO] Card created.
+2022-08-23 20:55:12,040 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3963904152 owner=Ileana Ababei>
+2022-08-23 20:55:12,040 [INFO] Creating card for Ștefan Nemeș.
+2022-08-23 20:55:12,345 [INFO] Card created.
+2022-08-23 20:55:12,345 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3960387425 owner=Ștefan Nemeș>
+2022-08-23 20:55:12,345 [INFO] Creating card for Albertina Pop.
+2022-08-23 20:55:12,647 [INFO] Card created.
+2022-08-23 20:55:12,647 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3942861309 owner=Albertina Pop>
+2022-08-23 20:55:12,647 [INFO] Creating card for Călin Nemeș.
+2022-08-23 20:55:12,953 [INFO] Card created.
+2022-08-23 20:55:12,953 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3997416523 owner=Călin Nemeș>
+2022-08-23 20:55:12,953 [INFO] Creating card for Julia Florea.
+2022-08-23 20:55:13,253 [INFO] Card created.
+2022-08-23 20:55:13,254 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3987341952 owner=Julia Florea>
+2022-08-23 20:55:13,254 [INFO] Creating card for Iancu Nemeș.
+2022-08-23 20:55:13,555 [INFO] Card created.
+2022-08-23 20:55:13,556 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3998467215 owner=Iancu Nemeș>
+2022-08-23 20:55:13,556 [INFO] Creating card for Anuța Voinea.
+2022-08-23 20:55:13,858 [INFO] Card created.
+2022-08-23 20:55:13,858 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3921748356 owner=Anuța Voinea>
+2022-08-23 20:55:13,859 [INFO] Creating card for Rebeca Marin.
+2022-08-23 20:55:14,164 [INFO] Card created.
+2022-08-23 20:55:14,164 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3956942718 owner=Rebeca Marin>
+2022-08-23 20:55:14,164 [INFO] Creating card for Ludovic Diaconu.
+2022-08-23 20:55:14,469 [INFO] Card created.
+2022-08-23 20:55:14,469 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3932879650 owner=Ludovic Diaconu>
+2022-08-23 20:55:14,470 [INFO] Creating card for Emanuel Nistor.
+2022-08-23 20:55:14,771 [INFO] Card created.
+2022-08-23 20:55:14,772 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3983105492 owner=Emanuel Nistor>
+2022-08-23 20:55:14,772 [INFO] Creating card for Florentin Tudor.
+2022-08-23 20:55:15,075 [INFO] Card created.
+2022-08-23 20:55:15,075 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3984752093 owner=Florentin Tudor>
+2022-08-23 20:55:15,075 [INFO] Creating card for Ilarie Toma.
+2022-08-23 20:55:15,380 [INFO] Card created.
+2022-08-23 20:55:15,380 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3934972168 owner=Ilarie Toma>
+2022-08-23 20:55:15,380 [INFO] Creating card for Marius Tabacu.
+2022-08-23 20:55:15,683 [INFO] Card created.
+2022-08-23 20:55:15,683 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3926415837 owner=Marius Tabacu>
+2022-08-23 20:55:15,683 [INFO] Creating card for Artemisa Nistor.
+2022-08-23 20:55:15,988 [INFO] Card created.
+2022-08-23 20:55:15,989 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3982193056 owner=Artemisa Nistor>
+2022-08-23 20:55:15,989 [INFO] Creating card for Viorel Tudor.
+2022-08-23 20:55:16,291 [INFO] Card created.
+2022-08-23 20:55:16,291 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3908935421 owner=Viorel Tudor>
+2022-08-23 20:55:16,291 [INFO] Creating card for Caius Dinu.
+2022-08-23 20:55:16,596 [INFO] Card created.
+2022-08-23 20:55:16,596 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3921537694 owner=Caius Dinu>
+2022-08-23 20:55:16,596 [INFO] Creating card for Steliana Georgescu.
+2022-08-23 20:55:16,900 [INFO] Card created.
+2022-08-23 20:55:16,900 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3929065148 owner=Steliana Georgescu>
+2022-08-23 20:55:16,900 [INFO] Creating card for Marga Niță.
+2022-08-23 20:55:17,204 [INFO] Card created.
+2022-08-23 20:55:17,204 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3975083624 owner=Marga Niță>
+2022-08-23 20:55:17,204 [INFO] Creating card for Rozalia Niță.
+2022-08-23 20:55:17,509 [INFO] Card created.
+2022-08-23 20:55:17,509 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3996401387 owner=Rozalia Niță>
+2022-08-23 20:55:17,509 [INFO] Creating card for Caius Stan.
+2022-08-23 20:55:17,811 [INFO] Card created.
+2022-08-23 20:55:17,811 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3961275894 owner=Caius Stan>
+2022-08-23 20:55:17,811 [INFO] Creating card for Cosmina Nemeș.
+2022-08-23 20:55:18,116 [INFO] Card created.
+2022-08-23 20:55:18,116 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3951694728 owner=Cosmina Nemeș>
+2022-08-23 20:55:18,116 [INFO] Creating card for Paul Dochioiu.
+2022-08-23 20:55:18,421 [INFO] Card created.
+2022-08-23 20:55:18,421 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3973810692 owner=Paul Dochioiu>
+2022-08-23 20:55:18,422 [INFO] Creating card for Tudor Barbu.
+2022-08-23 20:55:18,726 [INFO] Card created.
+2022-08-23 20:55:18,727 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3971849325 owner=Tudor Barbu>
+2022-08-23 20:55:18,727 [INFO] Creating card for Nichifor Eftimie.
+2022-08-23 20:55:19,032 [INFO] Card created.
+2022-08-23 20:55:19,032 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3969258430 owner=Nichifor Eftimie>
+2022-08-23 20:55:19,033 [INFO] Creating card for Dacian Nistor.
+2022-08-23 20:55:19,338 [INFO] Card created.
+2022-08-23 20:55:19,338 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3962591380 owner=Dacian Nistor>
+2022-08-23 20:55:19,338 [INFO] Creating card for Tinca Oprea.
+2022-08-23 20:55:19,640 [INFO] Card created.
+2022-08-23 20:55:19,640 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3994013682 owner=Tinca Oprea>
+2022-08-23 20:55:19,640 [INFO] Creating card for Carmen Mazilescu.
+2022-08-23 20:55:19,941 [INFO] Card created.
+2022-08-23 20:55:19,942 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3915409827 owner=Carmen Mazilescu>
+2022-08-23 20:55:19,942 [INFO] Creating card for Florentin Eftimie.
+2022-08-23 20:55:20,247 [INFO] Card created.
+2022-08-23 20:55:20,247 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3980965324 owner=Florentin Eftimie>
+2022-08-23 20:55:20,247 [INFO] Creating card for Iridenta Dinu.
+2022-08-23 20:55:20,548 [INFO] Card created.
+2022-08-23 20:55:20,548 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3945179032 owner=Iridenta Dinu>
+2022-08-23 20:55:20,548 [INFO] Creating card for Voichița Pop.
+2022-08-23 20:55:20,848 [INFO] Card created.
+2022-08-23 20:55:20,849 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3956374218 owner=Voichița Pop>
+2022-08-23 20:55:20,849 [INFO] Creating card for Aurelian Pușcașu.
+2022-08-23 20:55:21,153 [INFO] Card created.
+2022-08-23 20:55:21,154 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3974028516 owner=Aurelian Pușcașu>
+2022-08-23 20:55:21,154 [INFO] Creating card for Henrieta Preda.
+2022-08-23 20:55:21,460 [INFO] Card created.
+2022-08-23 20:55:21,460 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3971369540 owner=Henrieta Preda>
+2022-08-23 20:55:21,460 [INFO] Creating card for Tiberiu Nistor.
+2022-08-23 20:55:21,764 [INFO] Card created.
+2022-08-23 20:55:21,764 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3959102637 owner=Tiberiu Nistor>
+2022-08-23 20:55:21,764 [INFO] Creating card for Aleodor Nistor.
+2022-08-23 20:55:22,067 [INFO] Card created.
+2022-08-23 20:55:22,068 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3979321586 owner=Aleodor Nistor>
+2022-08-23 20:55:22,068 [INFO] Creating card for Ionela Marin.
+2022-08-23 20:55:22,369 [INFO] Card created.
+2022-08-23 20:55:22,369 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3903654271 owner=Ionela Marin>
+2022-08-23 20:55:22,369 [INFO] Creating card for Lelia Tabacu.
+2022-08-23 20:55:22,674 [INFO] Card created.
+2022-08-23 20:55:22,675 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3960359127 owner=Lelia Tabacu>
+2022-08-23 20:55:22,675 [INFO] Creating card for Sava Aanei.
+2022-08-23 20:55:22,976 [INFO] Card created.
+2022-08-23 20:55:22,976 [DEBUG] Card info <CardRevolutBasic issuer=Revolut number=3912864397 owner=Sava Aanei>
+2022-08-23 20:55:22,976 [INFO] Created 45 cards.
+2022-08-23 20:55:22,976 [INFO] Job successful. Exiting..
+2022-08-23 21:04:33,255 [ERROR] Card number is not valid for this bank.

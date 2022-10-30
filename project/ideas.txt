@@ -13,9 +13,12 @@
 13. Bibioteca - CLI
 14. ATM - CLI
 15. Condica - CLI
-X 16. Top instagram #hastags per years - CLI
-X 17. Multi-platform social-media posting and tracking - CLI
+
 18. Liste intretinere bloc - CLI 
 19. Histograma unei imagini. - CLI
 20. Steganografie - criptare mesaje in imagini - API
 21. API criptare - REST API
+
+
+22. Youtube MP3 downloader - API
+23. Meme maker - API
